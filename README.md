@@ -6,7 +6,7 @@ Welcome to my portfolio website! This project showcases my skills, services, and
 # *Home Page*
 1. A visually appealing introduction with a maroon-themed background.
 2. Smooth navigation links to different sections of the website.
-
+3. 
 # *About Me*
 1. Highlights my professional background, skills, and personal interests.
 2. Includes a section about my journey as a software developer.
